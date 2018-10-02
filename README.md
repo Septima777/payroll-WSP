@@ -1,11 +1,10 @@
 # Payroll Case Study
+## By Noppawan Kulchol 5910545728
 
-##### Members
+## Screenshrot for test
 
-5910545639 Kanchanok Kannee
+![alt text](https://github.com/Septima777/payroll-WSP/blob/master/img-sceenshort/test1.jpg)
 
-5910545906 Issaree Srisomboon
+![alt text](https://github.com/Septima777/payroll-WSP/blob/master/img-sceenshort/test2.jpg)
 
-## Test Screen Captures
-
-![alt text](https://serving.photos.photobox.com/59257909b2a8344911819d1a68b9b4564943c5e684d7218fc9771f74a99a7c8780c25a96.jpg)
+![alt text](https://github.com/Septima777/payroll-WSP/blob/master/img-sceenshort/test3.jpg)
