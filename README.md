@@ -1,5 +1,6 @@
 # Payroll Case Study
 ## By Noppawan Kulchol 5910545728
+##    Supisara Chuthathumpitak 5910546457
 
 ## Screenshrot for test
 
